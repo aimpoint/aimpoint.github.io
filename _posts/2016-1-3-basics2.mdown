@@ -1,9 +1,0 @@
----
-layout: default
-img: book.jpg
-category: Services
-title: NRA Basics of Pistol Shooting Phase II
-description: |
----
-  This phase reinforces and applies the skills students have already learned in the NRA Basic Pistol Shooting Online Training [required: see above]. This is an all day course with classroom and range time. Students will be expected to bring 200 rounds and a firearm to qualify with. (If you don't have your own pistol, one may be rented at an additional charge)
-  [Cost] Individual: $125/person
