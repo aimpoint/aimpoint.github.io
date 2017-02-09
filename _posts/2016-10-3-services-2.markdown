@@ -1,8 +1,0 @@
----
-layout: default
-img: delicate.jpg
-category: Services
-title: Adding images to your ebook
-description: |
----
-  Adding images has never been easier. Just drag and drop into your ebook and, voila!
