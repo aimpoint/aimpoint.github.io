@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: embertech.io
-title: Ember Tech
-email: embertech.io@gmail.com
-author: Erin
-description: > # Bringing media rich formatting to a screen near you.
-copyright: 'Copyright &copy; 2016 Ember Technologies. All Rights Reserved.'
+url: aimpointllconline.com
+title: AimPoin LLC
+email: smbergstedt@aimpointllconline.com
+author: Sylvia Bergstedt
+description: > #Firearms training for everyone.
+copyright: 'Copyright &copy; 2016 AimPoint LLC. All Rights Reserved.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -23,5 +23,5 @@ permalink: pretty
 
 social:
   - title: Email Us
-    url: mailto:embertech.io@gmail.com
+    url: mailto:smbergstedt@aimpointllconline.com
 
