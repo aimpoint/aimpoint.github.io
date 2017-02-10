@@ -6,5 +6,5 @@ title: Law Enforcement and Security personnel ONLY Training
 description: |
 ---
 NEEDS A DESCRIPTION! 
-Must show proof of association with law enforcement.
+Must show proof of association with law enforcement.    
 [Cost] ?? 
