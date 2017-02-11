@@ -1,6 +1,6 @@
 ---
 layout: default
-img: girlinflowers.jpg
+img: customized.jpg
 category: Services
 title: Customized Individual Training
 description: |
