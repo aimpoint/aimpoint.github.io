@@ -1,6 +1,6 @@
 ---
 layout: default
-img: book.jpg
+img: newshooter.jpg
 category: Services
 title: New Shooter Safety Seminar
 description: |

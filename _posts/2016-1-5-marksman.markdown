@@ -1,6 +1,6 @@
 ---
 layout: default
-img: delicate.jpg
+img: marksman.jpg
 category: Services
 title: Pistol Markmenship Training
 description: |
