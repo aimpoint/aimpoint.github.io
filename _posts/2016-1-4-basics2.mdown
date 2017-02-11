@@ -1,6 +1,6 @@
 ---
 layout: default
-img: NRAtraining.png
+img: basics2.jpg
 category: Services
 title: NRA Basics Phase II
 description: |
