@@ -7,4 +7,5 @@ description: |
 ---
 This part of the training course is provided by the NRA and is taken online at https://basicpistol.nra.org/
 Must be completed before you can attend Phase II of the training.].   
+     
 Individual: $60/person
