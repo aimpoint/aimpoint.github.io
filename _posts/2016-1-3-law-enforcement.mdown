@@ -1,6 +1,6 @@
 ---
 layout: default
-img: book.jpg
+img: lawenforcement.jpg
 category: Services
 title: Law Enforcement and Security Personnel ONLY Training
 description: |
