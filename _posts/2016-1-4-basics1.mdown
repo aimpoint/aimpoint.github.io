@@ -2,9 +2,7 @@
 layout: default
 img: basic2.jpg
 category: Services
-title: NRA Basics
-
-Instructor Led Training
+title: NRA Basics Instructor Led Training
 description: |
 ---
 This course introduces students to the knowledge, skills, and attitude necessary for owning and using a pistol safely. This course will also help prepare the student for participation in other NRA courses. This is an instructor led only training. 
