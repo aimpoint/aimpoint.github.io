@@ -1,6 +1,6 @@
 ---
 layout: default
-img: basic1.jpg
+img: basics1.jpg
 category: Services
 title: NRA Basics Blended Course
 description: |
@@ -9,6 +9,6 @@ This a hybrid course of both online training and instructor led training. This c
 Students will be expected to bring 200 rounds and a firearm to qualify with.    
 (If you don't have your own firearm, one may be rented at an additional charge).     
    
-   
+
 
 Individual: $130/person [Requires $65 deposit for training materials]

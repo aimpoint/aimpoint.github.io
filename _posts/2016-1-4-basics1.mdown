@@ -1,6 +1,6 @@
 ---
 layout: default
-img: basics2.jpg
+img: basic2.jpg
 category: Services
 title: NRA Basics Instructor Led Training
 description: |
