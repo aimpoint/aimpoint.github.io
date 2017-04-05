@@ -11,3 +11,6 @@ Individual: $35/person | Groups (10+): $25/person
 
 
 Upcoming Class -- April 6, 2017--12pm
+
+
+Call or Email for Class Registration
