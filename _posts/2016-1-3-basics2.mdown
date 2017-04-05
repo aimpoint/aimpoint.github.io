@@ -1,12 +1,13 @@
 ---
 layout: default
-img: basic2.jpg
+img: basic1.jpg
 category: Services
-title: NRA Basics Phase II
+title: NRA Basics Blended Course
 description: |
 ---
-This phase reinforces and applies the skills students have already learned in the NRA Basic Pistol Shooting Online Training [required: see above]. This is an multi-segment course with classroom and range time. Students will be expected to bring 200 rounds and a firearm to qualify with.    
-(If you don't have your own pistol, one may be rented at an additional charge).     
+This a hybrid course of both online training and instructor led training. This course introduces students to the knowledge, skills, and attitude necessary for owning and using a pistol safely. This course will also help prepare the student for participation in other NRA courses. This course will cover single and double-action revolvers, as well as, semi-automatic pistols.
+Students will be expected to bring 200 rounds and a firearm to qualify with.    
+(If you don't have your own firearm, one may be rented at an additional charge).     
    
 
-Individual: $110/person
+Individual: $130/person [Requires $65 deposit for training materials]
