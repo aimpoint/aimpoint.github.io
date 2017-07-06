@@ -10,7 +10,4 @@ The goal of this training is to provide the basic knowledge, skills, and attitud
 Individual: $35/person | Groups (10+): $25/person
 
 
-Upcoming Class -- May 26, 2017--1pm
-
-
-Call or Email for Class Registration
+Call or Email for Class Information and Registration
