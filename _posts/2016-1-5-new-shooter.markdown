@@ -10,4 +10,10 @@ The goal of the seminar is to highlight the basic knowledge, skills, and attitud
 Individual: $10/person -- Groups (10+): $5/person
 
 
-Call or Email for Class Schedule
+
+
+****Free Seminar Event**** 
+October 14, 2017 10:00 am - 12:00 pm at the Carnegie Borough Building
+Sponsored by Carnegie Police Department and Aim Point LLC
+To Pre-Register please click on the link below:
+https://goo.gl/forms/57nBuSSWEjQCRtPd2
