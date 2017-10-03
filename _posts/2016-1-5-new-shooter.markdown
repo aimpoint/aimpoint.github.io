@@ -16,4 +16,4 @@ Individual: $10/person -- Groups (10+): $5/person
 October 14, 2017 10:00 am - 12:00 pm at the Carnegie Borough Building
 Sponsored by Carnegie Police Department and Aim Point LLC
 To Pre-Register please click or copy the link below:
-<a href="www.GOOGLE-FORM-LINK.com" target="_blank">https://docs.google.com/forms/d/e/1FAIpQLSflR3Gm39eb7-Vo64ffb47iDt4Quw7pMWnomv6Uu7oabEVGDA/viewform?usp=sf_link</a>
+<a href="https://goo.gl/forms/5OOzTVHvz2YMMOiV2"blank">Registration Form</a>
