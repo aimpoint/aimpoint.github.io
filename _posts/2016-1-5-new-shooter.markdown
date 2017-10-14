@@ -9,7 +9,7 @@ The goal of the seminar is to highlight the basic knowledge, skills, and attitud
       
 Individual: $10/person -- Groups (10+): $5/person
 
-
+Call or Email for Class Registration
 
 
 
