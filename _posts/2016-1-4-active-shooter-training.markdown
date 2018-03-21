@@ -15,13 +15,12 @@ Cost: $80/person | Corporate Groups (9+): $695 | Non-profit groups (8+): $595
 
 Upcoming Classes:
 
-March 22, 2018 6:30-9:30pm
-
-<a href="https://goo.gl/forms/KeHPylmNr6k16ij43" target="_blank">Register here! </a>
+March 22, 2018 6:30-9:30pm <a href="https://goo.gl/forms/KeHPylmNr6k16ij43" target="_blank">Register here! </a>
 
 May 19, 2018:  9:00am-12:00pm and 1:00-4:00pm
-These classes are in response to National Train A Teacher Day!  
-If you are a teacher and would like more information please go to the <a href="http://nationaltrainateacherday.com " target="_blank">National Train A Teacher Website</a>
+These classes are in response to National Train A Teacher Day!<a href="https://goo.gl/forms/JOVS8BfndTGnsCz83" target="_blank">Register here! </a>
+
+If you are a teacher and would like more information about National Train a Teacher Day please go to the <a href="http://nationaltrainateacherday.com " target="_blank">National Train A Teacher Website</a>
 
 
 Call or Email for Class Information and Registration
