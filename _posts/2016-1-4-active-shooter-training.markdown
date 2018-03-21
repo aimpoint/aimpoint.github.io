@@ -17,5 +17,7 @@ Upcoming Classes:
 
 March 22, 2018 6:30-9:30pm
 
+<a href="https://goo.gl/forms/KeHPylmNr6k16ij43" target="_blank">Register here! </a>
+
 
 Call or Email for Class Information and Registration
