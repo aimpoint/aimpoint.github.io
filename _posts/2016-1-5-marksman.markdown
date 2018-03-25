@@ -17,4 +17,4 @@ This class is in response to National Train A Teacher Day!  If you are a teacher
 If you are a teacher and would like more information about National Train a Teacher Day please go to the <a href="http://nationaltrainateacherday.com " target="_blank">National Train A Teacher Website</a>
 
 
-Call or Email for Class Information and Registration
+Call or Email for additional class information and registration!
