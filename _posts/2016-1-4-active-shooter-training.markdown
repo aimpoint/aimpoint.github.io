@@ -11,7 +11,7 @@ in such a situation. This course provides the tools necessary to plan for, react
 chances of survival during an active shooter situation. This course covers the general characteristics of active shooting incidents,
 how to recognize signs of potential violence, and what to expect during and after and active shooting takes place.  It also covers basic first aid that could possibly help save your or someone else’s life.  This is a three-hour course.  
 
-Cost: $80/person | Corporate Groups (9+): $695 | Non-profit groups (8+): $595
+Cost: $80/person | Corporate Groups (10+): $595 | Non-profit groups (8+): $495
 
 Upcoming Classes:
 
