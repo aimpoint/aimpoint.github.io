@@ -15,7 +15,7 @@ Cost: $80/person | Corporate Groups (10+): $595 | Non-profit groups (8+): $495
 
 Upcoming Classes:
 
-April 11, 2018 6:30-9:30pm <a href="https://goo.gl/forms/I57C956hvOvfxqGU2" target="_blank">Register here! </a>
+April 10, 2018 6:30-9:30pm <a href="https://goo.gl/forms/S89luJMndSg7f9hY2" target="_blank">Register here! </a>
 
 May 19, 2018: 9:00am-12:00pm  <a href="https://goo.gl/forms/j6QfvStkEotOtWPs2" target="_blank">Register here! </a>
 This class is in response to National Train A Teacher Day!  If you are a teacher please contact me at smbergstedt@aimpointllconline.com
