@@ -11,10 +11,9 @@ Individual: $35/person | Groups (10+): $25/person
 
 Upcoming Class:
 
-May 19, 2018, 1:00-4:00pm <a href="https://goo.gl/forms/U5lEVFhEIahyagz62" target="_blank">Register here! </a>
-This class is in response to National Train A Teacher Day!  If you are a teacher please contact me at smbergstedt@aimpointllconline.com
+July 11, 2018, 6:30-9:30pm <a href="https://goo.gl/forms/mVym36R98cMprlLP2" target="_blank">Register here! </a>
 
-If you are a teacher and would like more information about National Train a Teacher Day please go to the <a href="http://nationaltrainateacherday.com " target="_blank">National Train A Teacher Website</a>
+August 29, 2018, 6:30-9:30pm <a href="https://goo.gl/forms/Ffd8aXm0S95ESis92" target="_blank">Register here! </a>
 
 
 Call or Email for additional class information and registration!
