@@ -12,8 +12,6 @@ Cost: $60/person | Corporate Groups (10+): $595 | Non-profit groups (8+): $495
 
 Upcoming Classes:
 
-July 19, 2018: 6:30pm-9:30pm  <a href="https://goo.gl/forms/mi5Kz6BeYhwn7IhH3" target="_blank">Register here! </a>
-
 August 23, 2018: 6:30pm-9:30pm  <a href="https://goo.gl/forms/Wrse0F67t3VEefQI2" target="_blank">Register here! </a>
 
 September 5, 2018: 6:30pm-9:30pm  <a href="https://goo.gl/forms/zAHQipQHJpP26f333" target="_blank">Register here! </a>
