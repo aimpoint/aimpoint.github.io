@@ -14,7 +14,5 @@ Upcoming Classes:
 
 August 23, 2018: 6:30pm-9:30pm  <a href="https://goo.gl/forms/Wrse0F67t3VEefQI2" target="_blank">Register here! </a>
 
-September 5, 2018: 6:30pm-9:30pm  <a href="https://goo.gl/forms/zAHQipQHJpP26f333" target="_blank">Register here! </a>
-
 
 Call or Email for Additional Class Information and Registration
